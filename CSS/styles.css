@@ -1,7 +1,22 @@
 body
 {
-	text-align: center;				//Letra centrada
-	font-family: "cambria";			//Tipo de letra
-	background-color: lightblue;	//Color de fondo
-	color: darkgray;				//Color al texto
+    color: #333;					/*Color de letra*/
+    text-align: center;				/*Alineacion del texto*/
+    font-family: "Arial";			/*Tipo de letra*/
+    font-size: 16px;				/*Tamaño d fuente*/
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;						/*Ancho del contener*/
+    padding: 1em;
+    text-align: left;				/*Alineación del texto dentro del contener*/
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;				/*Tamaño de fuente del titulo*/
 }
