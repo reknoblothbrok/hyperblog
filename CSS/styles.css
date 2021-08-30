@@ -1,0 +1,7 @@
+body
+{
+	text-align: center;				//Letra centrada
+	font-family: "cambria";			//Tipo de letra
+	background-color: lightblue;	//Color de fondo
+	color: darkgray;				//Color al texto
+}
